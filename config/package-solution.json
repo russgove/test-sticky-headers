@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "test-sticky-headers-client-side-solution",
+    "id": "5951fe9d-2fa6-43a6-9819-06ee8b245d70",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "isDomainIsolated": false
+  },
+  "paths": {
+    "zippedPackage": "solution/test-sticky-headers.sppkg"
+  }
+}
